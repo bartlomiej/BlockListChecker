@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>images/close.png</file>
+        <file>images/down.png</file>
+        <file>images/settings.png</file>
+        <file>images/up.png</file>
+        <file>images/warning.png</file>
+        <file>images/working.png</file>
+        <file>images/information.png</file>
+        <file>images/down-red.png</file>
+        <file>images/up-green.png</file>
+        <file>images/working-white.png</file>
+        <file>images/warning-orange.png</file>
+    </qresource>
+</RCC>
